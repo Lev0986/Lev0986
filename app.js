@@ -1,1 +1,4 @@
-alert("здесь можно скачать игры")
+function buttonClick(elem) {
+  elem.value = 'Новый текст кнопки';
+    
+  }
